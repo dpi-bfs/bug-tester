@@ -16,6 +16,7 @@ Currently demo's form level validation.
 5. Observe message
 
 > We could not submit your form
+>
 > Form level validation deliberately triggered. triggerFormLevelValidation: true
 
 For general info about coding against the OB SDK see https://github.com/dpi-bfs/oneblink-info
