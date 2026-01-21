@@ -1,4 +1,4 @@
-For experimenting with OB SDK using the "Bug Tester" Form;
+For experimenting with OB SDK using the "Bug Tester" Form. Currently demo's form level validation. Good for reviewing the basics of coding against the OneBlink SDK
 
 * DEV: https://nswfoodauthority-dpi-forms-dev.cdn.oneblink.io/forms/18174
 * TEST: https://forms-test.bfs.dpi.nsw.gov.au/forms/18182
