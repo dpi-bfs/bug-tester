@@ -19,6 +19,6 @@
     "src/**/*"
   ],
   "exclude": [
-    "src/embedding/*"
+    "node_modules", "out"
   ]  
 }
